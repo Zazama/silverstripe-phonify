@@ -1,0 +1,11 @@
+---
+Name: phonify
+---
+
+SilverStripe\Admin\LeftAndMain:
+  extensions:
+    - Zazama\Phonify\EditorPhoneLinkForm
+
+SilverStripe\Admin\ModalController:
+  extensions:
+    - Zazama\Phonify\EditorPhoneLink
