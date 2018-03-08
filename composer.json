@@ -2,6 +2,7 @@
 	"name": "zazama/silverstripe-phonify",
 	"description": "Adds a link type called phone link to SilverStripe's TinyMCE.",
 	"homepage": "https://github.com/Zazama/silverstripe-phonify",
+	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "CMS", "phone link"],
 	"license": "MIT",
 	"authors": [
