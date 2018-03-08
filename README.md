@@ -8,4 +8,4 @@ Requires Silverstripe 4
 
 Installation
 ======
-composer require Zazama/silverstripe-phonify
+composer require zazama/silverstripe-phonify
